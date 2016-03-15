@@ -1,0 +1,10 @@
+div{
+	width:240px;;
+	border:1px solid green;
+	background-color:violet;
+}
+
+span{
+	color:red;
+	text-decoration:underline;
+}
